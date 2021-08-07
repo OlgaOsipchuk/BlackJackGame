@@ -1,4 +1,14 @@
-# __Black Jack Game__
+# __Black♠️Jack♠️Game__
+
+https://olgaosipchuk.github.io/BlackJackGame/
+
+
+## Languages Used:
+  
+  * HTML
+  * CSS
+  * Javascript
+  
 
 ## Rules of the game:
 
@@ -15,4 +25,8 @@ How to count points:
 **A** - valued 11 unless that would result in the hand going over 21, in which case it is valued as 1.
 
 
+
+<img src="https://i.imgur.com/ws0EGJJ.png width="900" height="500">
+                                                                  
+                                                                  
 <img src="https://i.imgur.com/jTnZFSJ.png" width="900" height="500">
