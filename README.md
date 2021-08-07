@@ -20,8 +20,8 @@ If the player or the dealer's points total more than 21, then whoever reached th
 
 How to count points:
 
-..* **2 to 10** - face values
-**J, Q, K** - valued at 10
+* **2 to 10** - face values  
+**J, Q, K** - valued at 10  
 **A** - valued 11 unless that would result in the hand going over 21, in which case it is valued as 1.
 
 
