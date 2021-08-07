@@ -12,7 +12,7 @@ How to count points:
 
 **2 to 10** - face values
 **J, Q, K** - valued at 10
-**A ** - valued 11 unless that would result in the hand going over 21, in which case it is valued as 1.
+**A** - valued 11 unless that would result in the hand going over 21, in which case it is valued as 1.
 
 
-<img src="https://i.imgur.com/jTnZFSJ.png" width="700" height="700">
+<img src="https://i.imgur.com/jTnZFSJ.png" width="900" height="900">
