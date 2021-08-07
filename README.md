@@ -26,7 +26,7 @@ How to count points:
 
 
 
-<img src="https://i.imgur.com/ws0EGJJ.png width="900" height="500">
+<img src="https://i.imgur.com/ws0EGJJ.png" width="900" height="500">
                                                                   
                                                                   
 <img src="https://i.imgur.com/jTnZFSJ.png" width="900" height="500">
